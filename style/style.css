@@ -32,6 +32,7 @@ body {
     align-items: center;
     min-height: 100vh;
     padding: 100px 0;
+    background-color: var(--Very-light-gray);
 }
 /* End Global Rules */
 
